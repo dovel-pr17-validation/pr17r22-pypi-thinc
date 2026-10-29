@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "author": "Explosion <contact@explosion.ai>",
     "dependencies": {
-        "@tippy.js/react": "^2.2.2",
+        "@tippy.js/react": "^3.1.1",
         "autoprefixer": "^10.4.13",
         "classnames": "^2.2.6",
         "gatsby": "^4.18.2",
